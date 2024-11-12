@@ -5,8 +5,7 @@ export const Bio = {
     "UI/UX Developer",
   ],
   description:
-    "I have a passion for creating engaging and user-friendly interfaces that work seamlessly across different\n" +
-      "devices and platforms. I have extensive experience in developing web applications.",
+    "I have a passion for creating engaging and user-friendly interfaces that work seamlessly across different devices and platforms. I have extensive experience in developing web applications.",
   github: "https://github.com/xufyan23",
   resume:
     "https://drive.google.com/file/d/10cHhDH2btvnuEGFFJCLBdU4xfEZlqDJd/view?usp=drive_link",
@@ -182,9 +181,7 @@ export const projects = [
     title: "Unation",
     date: "",
     description:
-        "Developed the UI for GRE and GMAT test preparation with HTML5, CSS, SCSS, and Bootstrap 4. Focused on" +
-        "designing a user-friendly, responsive interface that improved accessibility across multiple devices. Ensured cross-browser" +
-        "compatibility and optimised performance to give a consistent experience for users interacting with exam preparation resources.",
+        "Developed the UI for GRE and GMAT test preparation with HTML5, CSS, SCSS, and Bootstrap 4. Focused on designing a user-friendly, responsive interface that improved accessibility across multiple devices. Ensured cross-browser compatibility and optimised performance to give a consistent experience for users interacting with exam preparation resources.",
     image:
         "https://res.cloudinary.com/dfboayiv4/image/upload/v1731278543/unation_fd4xvm.png",
     tags: ["React","NextJs","CSS", "SCSS", "Bootstrap"],
@@ -234,7 +231,7 @@ export const projects = [
     title: "Ecommerce Product Page",
     date: "",
     description:
-        "Developed the UI Ecommerce page with React, Redux, SCSS and CSS ",
+        "Developed the UI Ecommerce page with React, Redux, SCSS and CSS",
     image:
         "https://res.cloudinary.com/dfboayiv4/image/upload/v1731284847/screenshot-ecommerce-product-page_zhyzr8.png",
     tags: ["React", "Redux", "CSS", "SCSS"],
@@ -243,4 +240,3 @@ export const projects = [
     webapp: "",
   }
 ];
-
