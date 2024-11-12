@@ -13,10 +13,8 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to='/'>
-          <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
+        <NavLogo to='/' style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20', cursor: 'pointer' }}>
            <img src={Signature} alt="" width={200}/>
-          </a>
         </NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {
