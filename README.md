@@ -11,6 +11,6 @@ React.js: A JavaScript library for building user interfaces. HTML5 & CSS3: Marku
 # Installation
 To run this portfolio locally, follow these steps:
 
-Clone the repository: git clone https://github.com/xufyan23/Portfolio/ Navigate to the project directory: cd Portfolio Install the dependencies: npm install Start the development server: npm start Open your browser and visit: http://localhost:3000
+Clone the repository: git clone https://github.com/xufyan23/portfolio/ Navigate to the project directory: cd Portfolio Install the dependencies: npm install Start the development server: npm start Open your browser and visit: http://localhost:3000
 
                                          
