@@ -1,7 +1,7 @@
 {
   "name": "sufian-shahid-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/xufyan23/portfolio",
+  "homepage": "https://github.com/xufyan23",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
