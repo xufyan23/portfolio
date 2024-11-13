@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import _default from "../../themes/default";
+// import _default from "../../themes/default";
 
 export const HeroContainer = styled.div`
   background: ${({ theme }) => theme.card_light};
@@ -10,7 +10,7 @@ export const HeroContainer = styled.div`
   @media (max-width: 960px) {
     padding: 66px 16px;
   }
-  @media (max-width: 640) {
+  @media (max-width: 640px) {
     padding: 32px 16px;
   }
   z-index: 1;
@@ -22,10 +22,8 @@ export const HeroBg = styled.div`
   position: absolute;
   display: flex;
   justify-content: end;
-  top: 0;
   right: 0;
   bottom: 0;
-  left: 0;
   width: 100%;
   height: 100%;
   max-width: 1360px;
@@ -33,7 +31,6 @@ export const HeroBg = styled.div`
   padding: 0 30px;
   top: 50%;
   left: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
 
   @media (max-width: 960px) {
@@ -49,7 +46,6 @@ export const HeroInnerContainer = styled.div`
   align-items: center;
   width: 100%;
   max-width: 1100px;
-
   @media (max-width: 960px) {
     flex-direction: column;
   }
@@ -190,7 +186,7 @@ export const ResumeButton = styled.a`
     &:hover {
         transform: scale(1.05);
     transition: all 0.4s ease-in-out;
-    box-shadow:  20px 20px 60px #1F2634,
+    box-shadow:  20px 20px 60px #1F2634;
     filter: brightness(1);
     }    
     
