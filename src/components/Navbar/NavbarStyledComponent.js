@@ -142,7 +142,8 @@ export const MobileMenu = styled.div`
     // z-index: ${({ isOpen }) => (isOpen ? '1000' : '-1000')};
     @media (max-width: 991px) {
         opacity: 1;
-        z-index: 1000;
+        z-index: 1000;  
+        background: ${({ theme }) => theme.card_light};
     }
 `
 

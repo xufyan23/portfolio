@@ -20,7 +20,7 @@ const Container = styled.div`
     align-items: center;
     padding: 40px 0px 80px 0px;
     @media (max-width: 960px) {
-        padding: 0px;
+        //padding: 0;
     }
 `;
 
@@ -59,6 +59,7 @@ const Desc = styled.div`
     @media (max-width: 768px) {
         margin-top: 12px;
         font-size: 16px;
+        padding: 8px 20px;
     }
 `;
 
