@@ -76,8 +76,6 @@ const TimelineSection = styled.div`
     }
 `;
 
-
-
 const index = () => {
     return (
         <Container id="education">
