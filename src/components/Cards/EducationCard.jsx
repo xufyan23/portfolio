@@ -52,7 +52,7 @@ const Card = styled.div`
     @media only screen and (max-width: 500px){
         padding: 10px;
         gap: 8px;
-        width: 325px;
+        width: 335px;
     }
 
     &:hover ${Document}{
@@ -64,7 +64,7 @@ const Card = styled.div`
         -webkit-line-clamp: unset;
 
     }
-    border: 0.1px solid #854CE6;
+    border: 1px solid #854CE6;
 `
 
 const Top = styled.div`
