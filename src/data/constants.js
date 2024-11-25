@@ -9,7 +9,7 @@ export const Bio = {
   github: "https://github.com/xufyan23",
   resume:
     "https://drive.google.com/file/d/10cHhDH2btvnuEGFFJCLBdU4xfEZlqDJd/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in/frontend-sufyan/",
 };
 
 export const skills = [
