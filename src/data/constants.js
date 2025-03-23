@@ -8,7 +8,7 @@ export const Bio = {
     "I have a passion for creating engaging and user-friendly interfaces that work seamlessly across different devices and platforms. I have extensive experience in developing web applications.",
   github: "https://github.com/xufyan23",
   resume:
-    "https://drive.google.com/file/d/10cHhDH2btvnuEGFFJCLBdU4xfEZlqDJd/view?usp=drive_link",
+    "https://drive.google.com/file/d/1mIqJNXi7xY5JVJ7JfFXJ4oCJaxtwTGnV/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/frontend-sufyan/",
 };
 
@@ -99,7 +99,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIOKSKfENiUk1RVDvnWdBwEOLwUI6i6dKgJzl2ZFZOoHAEF3ClVGgc-R8uFath37w-BU&usqp=CAU",
     role: "Senior Frontend Engineer",
     company: "Techdots",
-    date: "Dec 2021 - Present",
+    date: "Dec 2021 - Dec 2025",
     desc: "Working on the frontend of the web application using ReactJS, NextJs.",
     skills: [
       "React",
