@@ -2,13 +2,13 @@ export const Bio = {
   name: "Sufian Shahid",
   roles: [
     "Frontend Developer",
-    "UI/UX Developer",
+    "React & Next.js Developer",
   ],
   description:
     "I have a passion for creating engaging and user-friendly interfaces that work seamlessly across different devices and platforms. I have extensive experience in developing web applications.",
   github: "https://github.com/xufyan23",
   resume:
-    "https://drive.google.com/file/d/1mIqJNXi7xY5JVJ7JfFXJ4oCJaxtwTGnV/view?usp=sharing",
+    "https://drive.google.com/file/d/1JL92P_KNgJHCdEfrQeJCPOPYsEufqJVY/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/frontend-sufyan/",
 };
 
@@ -96,6 +96,26 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu07fGsH7cfELPsbSAXzEamsCGwVNMvCX7-w&s",
+    role: "Software Engineer",
+    company: "Tintash",
+    date: "Feb 2021 - Jun 2025",
+    desc: [
+      "Contribute UI enhancements for sponsored blockchain transactions on Stacks Testnet (Stacks Explorer). ",
+      "Developed a full-stack auth flow using Remix and Clerk with Google OAuth support."
+    ],
+    skills: [
+      "React",
+      "Next Js",
+      "TypeScript",
+      "Remix",
+      "Clerk",
+      "Tailwind",
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIOKSKfENiUk1RVDvnWdBwEOLwUI6i6dKgJzl2ZFZOoHAEF3ClVGgc-R8uFath37w-BU&usqp=CAU",
     role: "Senior Frontend Engineer",
     company: "Techdots",
@@ -116,7 +136,7 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 1,
+    id: 2,
     img: "data:image/jpeg;base64,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",
     role: "Frontend UI/UX Developer",
     company: "Fecundity",
@@ -136,7 +156,7 @@ export const experiences = [
     // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
   {
-    id: 2,
+    id: 3,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsraCrTqVvxAZOg_mdTnNmca-Z2IzavYuMRw&s",
     role: "Software Engineer",
     company: "Square63",
