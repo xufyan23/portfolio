@@ -1,15 +1,15 @@
 export const Bio = {
   name: "Sufian Shahid",
   roles: [
-    "Frontend Developer",
+    "Frontend Engineer",
     "React & Next.js Developer",
   ],
   description:
     "I have a passion for creating engaging and user-friendly interfaces that work seamlessly across different devices and platforms. I have extensive experience in developing web applications.",
   github: "https://github.com/xufyan23",
   resume:
-    "https://drive.google.com/file/d/1AK4yPepDLKJmq-ALZ2wLrswnTR_HGCLt/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/frontend-sufyan/",
+    "https://drive.google.com/file/d/1iNZCetxU0B-AQx2IICEVAcxirTmDyTpJ/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/frontend-sufian/",
 };
 
 export const skills = [
