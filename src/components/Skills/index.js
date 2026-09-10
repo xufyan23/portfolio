@@ -22,7 +22,7 @@ const Wrapper = styled.div`
     max-width: 1100px;
     gap: 12px;
     @media (max-width: 960px) {
-        flex-direction: column;  
+        flex-direction: column;
     }
 `;
 
@@ -35,7 +35,7 @@ export const Title = styled.div`
    @media (max-width: 768px) {
       margin-top: 0;
       font-size: 32px;
-       
+
   }
 `;
 
@@ -91,7 +91,7 @@ const SkillTitle = styled.h2`
 
 const SkillList = styled.div`
   display: flex;
-  justify-content: center; 
+  justify-content: center;
   flex-wrap: wrap;
   gap: 12px;
   margin-bottom: 20px;
@@ -129,7 +129,7 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 6 years.
+        <Desc>Here are some of my skills on which I have been working on for the past 6+ years.
         </Desc>
         <SkillsContainer>
           {skills.map((skill, index) => (
