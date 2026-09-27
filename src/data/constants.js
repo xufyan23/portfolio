@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Sufian Shahid",
   roles: [
-    "Senior Frontend Engineer",
-    "React & Next.js Developer",
+    "Fullstack Developer",
+    "React, Next.js, Node.js & NestJS",
   ],
   description:
-    "Senior Frontend Engineer with 6+ years of experience architecting high-performance web applications and multi-tenant systems. Specialized in Next.js, React, TypeScript, and modern state management, driving technical execution and leveraging AI-assisted workflows to build scalable web applications.",
+    "Full-Stack Developer with 6+ years of frontend experience and hands-on experience building end-to-end applications with React, Next.js, Node.js, NestJS, and MongoDB.",
   github: "https://github.com/xufyan23",
   resume:
     "https://drive.google.com/file/d/1FmH5yzWSO3bAYUQXeu4cvFPjzly0cDXD/view?usp=sharing",
@@ -89,6 +89,50 @@ export const skills = [
       },
     ],
   },
+
+  {
+    title: "Backend",
+    skills: [
+      {
+        name: "Node.js",
+        image:
+          "https://nodejs.org/static/logos/nodejsLight.svg",
+      },
+      {
+        name: "NestJS",
+        image:
+          "https://img.icons8.com/color/1200/nestjs.jpg",
+      },
+      {
+        name: "Express.js",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxmebxSmR8bA24xzvqDdX0U3AQFmMCLHaIcI6DzoEJy3KedsxZv3jljdQ&s=10",
+      },
+      {
+        name: "REST APIs",
+        image:
+          "https://api.iconify.design/icon-park-outline:api.svg?color=%23ffffff",
+      },
+      {
+        name: "JWT Auth",
+        image:
+          "https://static.cdnlogo.com/logos/j/20/jwt_thumb.png"
+      },
+
+      {
+        name: "Passport.js",
+        image:
+          "https://images.ctfassets.net/vwq10xzbe6iz/tnwT7PN9aBmT7vgkTtGhV/940f001eb249a42904cd40e64d13c7e9/passportJS-300x300.png"
+      },
+
+      {
+        name: "MongoDB",
+        image:
+          "https://icon.icepanel.io/Technology/svg/MongoDB.svg",
+      },
+
+    ],
+  },
+
   {
     title: "Others",
     skills: [
@@ -129,42 +173,26 @@ export const experiences = [
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/C4D0BAQFnRdu0UeDO5g/company-logo_200_200/company-logo_200_200/0/1630548657530/hubex_tech_logo?e=2147483647&v=beta&t=um3medoB9xL4ih4E4r6ZiMZ7PH1F0JKC92xc-uCJDEY",
-    role: "Senior Frontend Engineer",
+    role: "Fullstack Developer",
     company: "HubexTech",
     date: "Jan 2025 - May 2026",
     desc: [
-      "Built frontend applications using React and Next.js, implementing reusable UI components, integrating REST APIs, and managing application state with Zustand and React Query.",
+      "Built web applications using React and Next.js, integrating REST APIs and contributing to backend services built with Node.js, NestJS, and MongoDB, while developing reusable UI components and managing application state with Zustand and React Query.",
     ],
     skills: [
       "React",
       "Next Js",
       "TypeScript",
+      "Node Js",
+      "Nest Js",
+      "MongoDB",
+      "Rest API",
       "Zustand",
       "React Query",
       "Axios",
       "Tailwind",
     ],
   },
-  // {
-  //   id: 1,
-  //   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu07fGsH7cfELPsbSAXzEamsCGwVNMvCX7-w&s",
-  //   role: "Software Engineer",
-  //   company: "Tintash",
-  //   date: "Feb 2021 - Jun 2025",
-  //   desc: [
-  //     "Contribute UI enhancements for sponsored blockchain transactions on Stacks Testnet (Stacks Explorer). ",
-  //     "Developed a full-stack auth flow using Remix and Clerk with Google OAuth support."
-  //   ],
-  //   skills: [
-  //     "React",
-  //     "Next Js",
-  //     "TypeScript",
-  //     "Remix",
-  //     "Clerk",
-  //     "Tailwind",
-  //   ],
-  //   // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  // },
   {
     id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIOKSKfENiUk1RVDvnWdBwEOLwUI6i6dKgJzl2ZFZOoHAEF3ClVGgc-R8uFath37w-BU&usqp=CAU",
