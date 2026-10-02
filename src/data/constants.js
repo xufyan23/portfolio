@@ -2,10 +2,10 @@ export const Bio = {
   name: "Sufian Shahid",
   roles: [
     "Fullstack Developer",
-    "React, Next.js, Node.js & NestJS",
+    "React, Next.js, Angular, NestJS",
   ],
   description:
-    "Full-Stack Developer with 6+ years of frontend experience and hands-on experience building end-to-end applications with React, Next.js, Node.js, NestJS, and MongoDB.",
+    "Full-Stack Developer with 6+ years of frontend experience and hands-on experience building end-to-end applications with React, Next.js, Angular, Node.js, NestJS, and MongoDB.",
   github: "https://github.com/xufyan23",
   resume:
     "https://drive.google.com/file/d/1FmH5yzWSO3bAYUQXeu4cvFPjzly0cDXD/view?usp=sharing",
@@ -44,6 +44,11 @@ export const skills = [
         name: "Next Js",
         image:
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
+      {
+        name: "Angular",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZNMCEOqyYzW10dKM1LqRBhslourozkpDKdWJPyz-DQ&s",
       },
       {
         name: "REST API",
@@ -177,12 +182,13 @@ export const experiences = [
     company: "HubexTech",
     date: "Jan 2025 - May 2026",
     desc: [
-      "Built web applications using React and Next.js, integrating REST APIs and contributing to backend services built with Node.js, NestJS, and MongoDB, while developing reusable UI components and managing application state with Zustand and React Query.",
+      "Built web applications using React, Next.js and Angular, integrating REST APIs and contributing to backend services built with Node.js, NestJS, and MongoDB, while developing reusable UI components and managing application state with Zustand and React Query.",
     ],
     skills: [
       "React",
       "Next Js",
       "TypeScript",
+      "Angular",
       "Node Js",
       "Nest Js",
       "MongoDB",
@@ -205,6 +211,7 @@ export const experiences = [
       "Next Js",
       "JavaScript",
       "TypeScript",
+      "Angular",
       "HTML",
       "CSS",
       "Scss",
